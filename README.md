@@ -28,11 +28,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories (Submission 1 3/20/2023):
 
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRhOTcwZDFjNDdiZDljMzg0ODMyMjk4ZWYxNzExZDE0Y2QyMzJkOSZjdD1n/7BhlaEhD3f0uLHlcsU/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
+Here's a walkthrough of my final submission of implemented user stories (3/22/2023):
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTliZDU2MTk1MmUxNjhjM2M4YTRmNTU0OGUwNWRkOTQ3YWRiYWYyOSZjdD1n/rWsuVdMVvSQByojCnv/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 GIF created with GIPHY  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -45,7 +48,10 @@ Describe any challenges encountered while building the app.
 I experienced challenges with allowing 1 picture to appear at at time, which was solved with theDiscover button functionality. I also could not figure how to access attributes and
 add them to the site. My access key was working fine, but I used console.log(json) to determine how the data is returned to access other attributes.
 
-I am still challenged by the ban features, so I will be continuing to work on these features by the extension date. (AS OF MONDAY 3/21/2023 11:04PM PDT).
+I am still challenged by the ban features, so I will be continuing to work on these features by the extension date. (AS OF MONDAY 3/20/2023 11:04PM PDT).
+
+AS OF WEDNESDAY 3/22/2023 12:24PM PDT:
+All user stories (required features) are complete and successfully function within the app!
 
 ## License
 
